@@ -4,7 +4,6 @@
 - Truffle 
 - Ganache 
 - Solidity 
-- Node 
 - Web3.js 
 - npm 
 
